@@ -63,7 +63,7 @@ function Application() {
       <div className="flex flex-row flex-grow">
         <img src={agribankicon} alt="Agribank" />
         <h1 className="title text-center flex-grow">
-          <b>ĐƠN XIN {application.fullName}</b>
+          <b>{application.fullName}</b>
         </h1>
         {applicationImage !== null ? (
           <img src={applicationImage} alt="Hình ảnh kèm theo" />
