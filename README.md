@@ -4,6 +4,8 @@ The frontend is written in React, using Formik for the application form. Navigat
 
 The application form is connected to a Firebase project using Firestore. Applications are sent to a collection and stored as documents, where they are accessed from a mock-up application viewer. The URL of each application is parametrically decided from its ID in the database, making them all unique.
 
+The purpose of this project is to simplify the application process, minimizing paper usage, and the extra step of printing photos to put on the application. Utilizing this process will save a lot of time for both candidates and recruiters. 
+
 ## How to run
 
 1. Clone the repo into a directory
