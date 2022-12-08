@@ -17,5 +17,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 This is where you can fill out the job application, which then will be saved into a Firebase database.
 
-3. To see the list of applications submitted, open [http://localhost:3000/applications](http://localhost:3000/applications) \
+To see the list of applications submitted, open [http://localhost:3000/applications](http://localhost:3000/applications) \
 This page will include a list of applications, which a recruiter could open and see. The recruiter could also delete an application, which will also delete information of the application on Firebase automatically.
